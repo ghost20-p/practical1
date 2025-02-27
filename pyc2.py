@@ -3,3 +3,4 @@ print("even number is: ",)
 for x in a:
       if x % 2 ==0:
           print(x)
+print("Thank You")
